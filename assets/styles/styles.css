@@ -58,7 +58,8 @@
 
 .main {
   background: url(../img/shop-hero-3-product-slide-2.jpg) center/cover no-repeat;
-  padding: 12.938rem 3.813rem 8.188rem 3.813rem;
+  height: 95vh;
+  padding: 0 3.813rem;
 
   display: flex;
   flex-direction: column;
