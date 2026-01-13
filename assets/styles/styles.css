@@ -58,7 +58,7 @@
 
 .main {
   background: url(../img/shop-hero-3-product-slide-2.jpg) center/cover no-repeat;
-  height: 95vh;
+  height: 90vh;
   padding: 0 3.813rem;
 
   display: flex;
@@ -94,9 +94,11 @@
 }
 
 .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #fff;
-  padding: 1rem 0;
-  text-align: center;
+  height: 10vh;
 }
 
 .footer__text {
